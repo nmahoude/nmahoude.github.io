@@ -1,1 +1,3 @@
-{% include mikado.html type="basic" syntax-id="overview" %}
+# List of java stuff
+
+[the mikado method](mikado.md)
