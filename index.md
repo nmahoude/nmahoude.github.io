@@ -7,4 +7,4 @@ nmahoude's test of publication !
 
 
 ### java
-[java](java/jdk/exceptions.md)
+[java](java/_java.md)
