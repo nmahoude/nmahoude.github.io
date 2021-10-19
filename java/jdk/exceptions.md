@@ -18,8 +18,11 @@ Force le dev à prendre en *soin* de ce qui peut mal se passer:
 ## RuntimeExceptions
 * pour toutes les erreurs de  __dev__
 
-<button type=”button” class=”btn btn-warning”>Warning</button>
-Ne pas ajouter de try/catch mais corriger ce type de bug
+<div class="alert alert-info">
+  <i class="fas fa-info-circle"></i> <strong>Note:</strong> 
+  Ne pas ajouter de try/catch mais corriger ce type de bug
+</div>
+
 
 ## Edge case 
 
