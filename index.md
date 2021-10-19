@@ -7,4 +7,4 @@ nmahoude's test of publication !
 
 
 ### java
-[java](java/_java.md)
+[java](java/java.md)
