@@ -1,3 +1,3 @@
 # List of java stuff
 
-[exceptions](jdk/exceptions.md)
+[exceptions](./jdk/exceptions.md)
